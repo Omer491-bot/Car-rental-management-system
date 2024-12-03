@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\CppCLR_WinFormsProject1qwer\CppCLR_WinFormsProject1qwer\x64\Debug\CppCLR_WinFormsProject1qwer.vcxproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CppCLR_WinFormsProject1qwer\CppCLR_WinFormsProject1qwer\x64\Debug\CppCLR_WinFormsProject1qwer.Form1.resources
+C:\Users\hp\source\repos\CppCLR_WinFormsProject1qwer\CppCLR_WinFormsProject1qwer\x64\Debug\CppCLR_WinFormsProject1qwer.vcxproj.GenerateResource.cache
+C:\Users\hp\source\repos\CppCLR_WinFormsProject1qwer\CppCLR_WinFormsProject1qwer\x64\Debug\CppCLR_WinFormsProject1qwer.MyForm.resources
+C:\Users\hp\source\repos\CppCLR_WinFormsProject1qwer\CppCLR_WinFormsProject1qwer\x64\Debug\CppCLR_WinFormsProject1qwer.MyForm1.resources
+C:\Users\hp\source\repos\CppCLR_WinFormsProject1qwer\CppCLR_WinFormsProject1qwer\x64\Debug\CppCLR_WinFormsProject1qwer.MyForm2.resources
+C:\Users\hp\source\repos\CppCLR_WinFormsProject1qwer\CppCLR_WinFormsProject1qwer\x64\Debug\CppCLR_WinFormsProject1qwer.MyForm3.resources
+C:\Users\hp\source\repos\CppCLR_WinFormsProject1qwer\CppCLR_WinFormsProject1qwer\x64\Debug\CppCLR_WinFormsProject1qwer.MyForm4.resources
+C:\Users\hp\source\repos\CppCLR_WinFormsProject1qwer\CppCLR_WinFormsProject1qwer\x64\Debug\CppCLR_WinFormsProject1qwer.MyForm5.resources
+C:\Users\hp\source\repos\CppCLR_WinFormsProject1qwer\CppCLR_WinFormsProject1qwer\x64\Debug\CppCLR_WinFormsProject1qwer.MyForm6.resources
+C:\Users\hp\source\repos\CppCLR_WinFormsProject1qwer\CppCLR_WinFormsProject1qwer\x64\Debug\CppCLR_WinFormsProject1qwer.MyForm7.resources
+C:\Users\hp\source\repos\CppCLR_WinFormsProject1qwer\CppCLR_WinFormsProject1qwer\x64\Debug\CppCLR_WinFormsProject1qwer.MyForm8.resources
